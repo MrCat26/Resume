@@ -1,0 +1,48 @@
+body {
+	background-color: rgb(28,35,43)
+}
+
+
+/* Text style here*/
+
+h1,ul{
+	font-family: arial;
+
+}
+.navi {
+	list-style-type: none;
+}
+
+/*Text size*/
+
+#head {
+	font-style: italic;
+	text-align: center;
+	font-size: 20px;
+	border:5px solid black;
+	background-color: silver;
+}
+h2{
+	font-style: italic;
+
+}
+ol{
+	font-style: italic;
+	font-weight: bold;
+	font-size: 19px;
+		border:5px solid black;
+}
+ul{
+		border:5px solid black;
+}
+
+/*Backgrounds and others*/
+
+
+
+ul,p,ol{
+background:silver;
+}
+
+
+
